@@ -1,0 +1,20 @@
+# Секреты
+.env
+.env.*
+!.env.example
+
+# Виртуальное окружение
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Логи и состояние Long Poll
+*.log
+.vkbottle/
+
+# Редакторы
+.vscode/
+.idea/
